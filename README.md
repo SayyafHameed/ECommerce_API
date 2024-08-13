@@ -51,7 +51,7 @@ This ECommerce API is a robust, scalable, and high-performance backend service b
    ```
 
 4. **Access the API documentation:**
-   - Navigate to `http://localhost:5000/swagger` to explore and test the API endpoints.
+   - Navigate to `https://localhost:7117/swagger` to explore and test the API endpoints.
 
 ## Contribution
 
